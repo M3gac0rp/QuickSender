@@ -1,6 +1,6 @@
 # QuickSender
 
-Script d'envoi de proposition de développement personnalisé
+
 Ce script permet d'envoyer un email personnalisé à une liste d'adresses email contenue dans un fichier texte. Le but est de proposer les services d'un développeur de scripts freelance pour automatiser des tâches répétitives pour les entreprises.
 
 Installation
